@@ -1,5 +1,5 @@
 testLBP.m1/ 1
-I=imread('0001_m_l_02.jpg');
+I=imread('0001_m_l_01.jpg');
 mapping=getmapping(8,'u2');
 H1=lbp(I,1,8,mapping,'h'); 
 %LBP histogram in (8,1) neighborhood using uniform patternsfigure;subplot(2,1,1),stem(H1);
