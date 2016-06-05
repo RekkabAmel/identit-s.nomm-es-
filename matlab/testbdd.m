@@ -62,7 +62,7 @@ end
   else 
      disp ('la difference est de:')
      disp (D)
-     disp('individu inconnu');
+     disp('l'individu est inconnu');
      
   end 
 
