@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AmelKyodai</string>
+    <string name="app_name2">Kyodai_GAME</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Kyodai Game</string>
+    <string name="btn_jouer">Play</string>
+    <string name="btn_sonoui">SON: Yes</string>
+    <string name="btn_sonnon">SON: NO</string>
+    <string name="btn_quitter">QUITTER</string>
+    <string name="help">AIDE</string>
+    <string name="about">A PROPOS !</string>
+</resources>
